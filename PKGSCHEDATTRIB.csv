@@ -1,0 +1,2 @@
+"OPEID","Non_Term_ACY_Months","Term_PP_Months","Minimum_Number_of_Credits","Summer_Term_Script","Grade_Level_Progression","Direct_Loan_Crossover_LP_AwY_Selection"
+"00000005~00306400","pkg_sched_attrib/NonTermAcyMonths/00306400.groovy","pkg_sched_attrib/TermPpMonths/00306400.groovy","6","","pkg_sched_attrib/GradeLevelProgression/default_grade_level.groovy","pkg_sched_attrib/DirectLoanCrossoverLPAwYSelection/00306400.groovy"
